@@ -24,7 +24,7 @@ public class AreaOfTriangle
           System.out.println("The triangle is not valid");
       }
       
-      
+      sc.close();
     }
     
     

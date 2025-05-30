@@ -1,4 +1,4 @@
-public class MaskingandMerging {
+public class MaskAndMerge {
     public static void main (String args[])
     {
         byte a=9,b=12,c=0;
