@@ -7,7 +7,7 @@ public class Gmail {
         String email =sc.next();
         email=email.trim();
         String username=email.substring(0,email.indexOf('@')),
-        domain =email.substring(email.indexOf('@')+1);
+                domain =email.substring(email.indexOf('@')+1);
         if(domain.matches("gmail..*"))
         {
             System.out.println("This is a Gmail address.");
